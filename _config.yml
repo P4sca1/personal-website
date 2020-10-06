@@ -57,10 +57,6 @@ topics:
     web_url: https://github.com/topics/eslint
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png
 
-  - name: Koa
-    web_url: https://github.com/topics/koa
-    image_url: https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png
-
   - name: GraphQL
     web_url: https://github.com/topics/graphql
     image_url: https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png
@@ -68,10 +64,6 @@ topics:
   - name: Vue
     web_url: https://github.com/topics/vue
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
-
-  - name: Amazon Web Services
-    web_url: https://github.com/topics/aws
-    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
